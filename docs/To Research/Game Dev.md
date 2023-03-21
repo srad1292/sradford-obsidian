@@ -1,0 +1,3 @@
+- How to prevent memory leaks and other issues that may arise if game is left running for very long periods of time.  Read a blurb about games needing to be able to do this for certification.
+- Making sure no music/names/locations/art/etc is breaching copyright/trademark 
+- 

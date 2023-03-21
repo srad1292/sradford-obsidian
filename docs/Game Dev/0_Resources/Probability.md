@@ -1,0 +1,7 @@
+- [Any Dice](https://anydice.com/)
+- [Probability, Decisions, and Games](https://www.wiley.com/en-us/Probability%2C+Decisions+and+Games%3A+A+Gentle+Introduction+using+R-p-9781119302629)
+- [Conditional Probability](https://bayesball.github.io/BOOK/conditional-probability.html)
+- [Chance, Probability, Luck, Calculations](https://www.gamedeveloper.com/programming/chance-probability-luck-percentage-calculation-for-games-)
+- [Probability Problems in Game Design](https://www.gamedeveloper.com/design/probability-problems-in-game-design)
+- [Probability and Damage Rolls](https://www.redblobgames.com/articles/probability/damage-rolls.html)
+- 

@@ -1,0 +1,5 @@
+- [Game UI Database](https://www.gameuidatabase.com/)
+- [Game Interface Collection](https://interfaceingame.com/)
+- [Game Pixel Art Info](https://stuartspixelgames.com/)
+- [Color Selections for Data Visualization](https://blog.datawrapper.de/beautifulcolors/)
+- 

@@ -32,9 +32,74 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "78546dcbc6400cf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/To Research/Game Dev.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "327f52329b43859f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Game Dev/0_Resources/Unity.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37b61a0fb21cee2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Game Dev/0_Resources/General.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b122dbe500a85c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Game Dev/0_Resources/General.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8b50ea3bc188537",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Game Dev/Unity/Unity Example GitIgnore.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -100,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Home Buying/Process.md",
+                "file": "docs/Game Dev/Unity/Unity Example GitIgnore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Home Buying/Process.md",
+                "file": "docs/Game Dev/Unity/Unity Example GitIgnore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Home Buying/Process.md"
+                "file": "docs/Game Dev/Unity/Unity Example GitIgnore.md"
               }
             }
           }
@@ -163,23 +228,28 @@
   },
   "active": "8fc103d76fe3bae8",
   "lastOpenFiles": [
+    "docs/Game Dev/0_Resources/Game Visual Design.md",
+    "docs/Game Dev/0_Resources/General.md",
+    "docs/Game Dev/0_Resources/Probability.md",
+    "docs/Game Dev/0_Resources/Unity.md",
+    "docs/To Research/Game Dev.md",
+    "docs/Game Dev/0_Resources",
+    "docs/Home Buying/Process.md",
+    "docs/To Research",
+    "docs/Topic 1/Note 1.md",
+    "docs/index.md",
     "mkdocs.yml",
     "docs/Topic 1/Note 2.md",
-    "docs/Topic 1/Note 1.md",
     "docs/javascripts/mathjax.js",
     "docs/Features/Text Formatting.md",
     "docs/Features/LaTeX Math Support.md",
     "docs/Features/Mermaid Diagrams.md",
     "docs/Topic 1",
     "docs/javascripts",
-    "docs/index.md",
     "docs/Features",
     "docs",
     "docs/Game Dev/Unity/Unity Example GitIgnore.md",
-    "docs/Home Buying/Process.md",
     "docs/Game Dev/Unity",
-    "Untitled",
-    "docs/Game Dev",
-    "docs/Home Buying"
+    "Untitled"
   ]
 }

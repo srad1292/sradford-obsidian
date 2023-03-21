@@ -1,0 +1,5 @@
+- [Unity Scripting API Reference](https://docs.unity3d.com/ScriptReference/index.html)
+- [Learn Unity](https://learn.unity.com/)
+- [Camera Render Mode Discussion](https://gamedev.stackexchange.com/questions/143348/screen-space-vs-world-space-canvas)
+- [Events and Delegates](https://gamedevbeginner.com/events-and-delegates-in-unity/)
+- [Singletons](https://gamedevbeginner.com/singletons-in-unity-the-right-way/)
