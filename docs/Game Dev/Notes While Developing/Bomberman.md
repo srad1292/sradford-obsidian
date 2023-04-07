@@ -1,0 +1,21 @@
+- Assets are pixel art using LibreSprite.  Objects looked pixelated.  This was fixed by setting filter mode on assets to Point(no filter) instead of Bilinear
+- To add some visual space between tiles, I set the PPU of my spritesheet to 17 instead of the 16 pixel size they were drawn in
+- Want player to be able to pass through their own bombs without letting enemies pass through. I achieved this by setting the layer for the Player object to Player and the layer for the player bombs to PlayerBomb.  Then in Edit -> Project Settings -> Physics 2D, I updated the Layer Collision Matrix so that the Player and PlayerBomb layers will not collider with each other.
+- Bomb animation.
+	- Add Animator component to bomb object 
+	- Create new folder in project called Animations and add a new Animation Controller to it
+	- Connect animation controller to bomb object
+	- Add the animator and animation windows to screen
+	- Add a new animation for Idle so that entry has a state to enter by default and then add the countdown state.
+	- Drag both these animations into the animation controller
+	- In the countdown animation, use the hugebomb as example object to preview
+	- I added SpriteRenderer.color and Transform.scale as two properties to change using the record function and updating values in keyframes
+	- I added a function in the Bomb script called ExplodeBomb
+	- I added an animation event to the countdown animation and used the function ExplodeBomb, then I dragged the animation event to right at the end of the animation.
+- Determined which spots are going to be hit by a bomb going off by looping through the four directions up to a max distance and using a raycast at each point to check 1 unit away in that distance
+	- `Vector2[] directions = { Vector2.up, Vector2.right, Vector2.down, Vector2.left };`
+	- `RaycastHit2D blockHit = Physics2D.Raycast(currentPoint, direction, 1f, blockingMask);`
+	- `if (blockHit.collider == null)`
+-  To create a reusable "animation" for the different explosions (and eventually crate breaking too), I created a SpriteFlipbook script.  It takes in a list of sprites, the time between switching sprites, and a flag for if it should go in reverse after hitting the end.  A timer is used to determine when it's time to switch again.
+
+	
